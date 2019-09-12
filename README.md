@@ -2,7 +2,7 @@
 Simple Machine learning Solution for Fraud transaction detection using logistic regression. 
 </br></br>
 ## Dataset
-*Dataset from kaggle. click [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) for know more *</br>
+*Dataset from kaggle. click [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) for know more* </br>
 
 ### 1. Visualizng the data
 
@@ -14,4 +14,4 @@ Simple Machine learning Solution for Fraud transaction detection using logistic 
    ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/3D-map.png)
    </br>
 ### 2. using logistic regression to train model
-#### $$p = frac{1}{1+e^-y}$$
+$$p = frac{1}{1+e^-y}$$
