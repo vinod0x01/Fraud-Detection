@@ -15,4 +15,4 @@ Simple Machine learning Solution for Fraud transaction detection using logistic 
    </br>
 ### 2. using logistic regression to train model
 ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/content_lr_2.png)
-# p = 1 &frasl; 1&minus;e<sup>&#8315;y</sup>
+# p = 1 &frasl; 1&plus;e<sup>&#8315;y</sup>
