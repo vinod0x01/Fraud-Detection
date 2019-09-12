@@ -6,9 +6,12 @@ Simple Machine learning Solution for Fraud transaction detection using logistic 
 
 ### 1. Visualizng the data
 
-* > Amount graph
-  > ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/AmountvsClass.png)
-* > Time graph
-  > ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/TimevsClass.png)
-* > 3-D plot
-  > ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/3D-map.png)
+*  Amount graph</br>
+   ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/AmountvsClass.png)
+*  Time graph</br>
+   ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/TimevsClass.png)
+*  3-D plot</br>
+   ![graph](https://github.com/raita0100/Fraud-Detection/blob/master/Images/3D-map.png)
+   </br>
+### 2. using logistic regression to train model
+#### $ p = frac{1}{1+e^-y}$
